@@ -11,3 +11,6 @@ Replaced <span> with <em>
 Replaced all <div> with more semantic html
 Add title attribute to the hero image 
 Added image descriptions using <alt>
+Calibri font was missing '' in the stylesheet
+Consolidated benefits styles in to one css instead of 3 separate ones
+Removed id tags for SEO, Onine Rep, and Social Media as they were not in use anywhere in CSS
