@@ -7,3 +7,7 @@ Changed line 13 and 25 from <div> to <nav>
 Added notes for where styling starts and ends
 Added alt tag for image on line 30
 Changed line 74 and 79 from <div> to <footer>
+Replaced <span> with <em>
+Replaced all <div> with more semantic html
+Add title attribute to the hero image 
+Added image descriptions using <alt>
