@@ -4,7 +4,7 @@
 
 For this task I was assigned the goal of making the Hori*seo*n Homepage meet accessibility standards. I was also tasked with refactoring the legacy code base in both the HTML and CSS to make sure that everything was working properly and to clean up the code for any duplicate or unneccesary code. 
 
-After an initial overview of the legacy code I noticed right away that the index.html file was structered well, but it was lacking in semantic HTML language that would help instantly to make this site more accessible. I went through the document and changed non-semantic elements such as `<div>` and `<span>` to more semeantic elements such as `<header>`, `<footer>`, and `<aside>`.
+After an initial overview of the legacy code I noticed right away that the index.html file was structured well, but it was lacking in semantic HTML language that would help instantly to make this site more accessible. I went through the document and changed non-semantic elements such as `<div>` and `<span>` to more semantic elements such as `<header>`, `<footer>`, and `<aside>`.
 
 The next steps were to go through the code and add notes where applicable to break down the code in to more manageable sections for easier reference in the future if more updates or refactoring are needed. 
 
@@ -12,7 +12,7 @@ All of the images were missing `<alt>` titles as well. These will go a long way 
 
 When it came to refactoring the stylesheet, there were quite a few areas where the same exact code was written for mulitple parent and child elements. Instead of having them written out multiple times, I consolodated each of them in to one class and then was able to keep one set of code to style all of the elements at once. 
 
-Lastly, I made sure that the links in the navigation section of the header element were all working correctly by linking the correct ids in the index.html to their respective sections. Also was able to make sure the font-style of the *seo* in the logo matched the markup while still being emphaised per the company's request. 
+Lastly, I made sure that the links in the navigation section of the header element were all working correctly by linking the correct ids in the index.html to their respective sections. Also was able to make sure the font-style of the *seo* in the logo matched the markup while still being emphasized.
 
 ## Website Deployment on Github Pages
 
