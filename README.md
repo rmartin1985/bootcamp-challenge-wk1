@@ -2,9 +2,9 @@
 
 ## Description
 
-For this task I was assigned the goal of making the Hori*seo*n Homepage website meet accessibility standards. I was also tasked with refactoring the legacy code base in both the HTML and CSS to make sure that everything was working properly and to clean up the code for any duplicate or unneccesary code. 
+For this task I was assigned the goal of making the Hori*seo*n Homepage meet accessibility standards. I was also tasked with refactoring the legacy code base in both the HTML and CSS to make sure that everything was working properly and to clean up the code for any duplicate or unneccesary code. 
 
-I was provided the starter code from the company and noticed right away that the index.html file was structered well, but it was lacking in symentic HTML language that would help instantly to make this site more accessible. I went through the document and changed non-semantic elements such as `<div>` and `<span>` to more semeantic elements such as `<header>`, `<footer>`, and `<aside>`.
+After an initial overview of the legacy code I noticed right away that the index.html file was structered well, but it was lacking in semantic HTML language that would help instantly to make this site more accessible. I went through the document and changed non-semantic elements such as `<div>` and `<span>` to more semeantic elements such as `<header>`, `<footer>`, and `<aside>`.
 
 The next steps were to go through the code and add notes where applicable to break down the code in to more manageable sections for easier reference in the future if more updates or refactoring are needed. 
 
@@ -14,7 +14,11 @@ When it came to refactoring the stylesheet, there were quite a few areas where t
 
 Lastly, I made sure that the links in the navigation section of the header element were all working correctly by linking the correct ids in the index.html to their respective sections. Also was able to make sure the font-style of the *seo* in the logo matched the markup while still being emphaised per the company's request. 
 
+## Website Deployment on Github Pages
+
 You can see the finished webpage deployed here: [Horiseon Homepage](https://rmartin1985.github.io/bootcamp-challenge-wk1/)
+
+## Website links in action and screenshot 
 
 ![Horiseon](https://media.giphy.com/media/9D5JkjNRojSHZ9PBjL/giphy.gif)
 
