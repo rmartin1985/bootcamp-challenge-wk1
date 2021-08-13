@@ -16,7 +16,7 @@ Lastly, I made sure that the links in the navigation section of the header eleme
 
 You can see the finished webpage deployed here: [Horiseon Homepage](https://rmartin1985.github.io/bootcamp-challenge-wk1/)
 
-![Horiseon](https://media.giphy.com/media/9D5JkjNRojSHZ9PBjL/source.mov)
+![Horiseon](https://media.giphy.com/media/9D5JkjNRojSHZ9PBjL/source.gif)
 
 ![Horiseon](./Develop/assets/images/Horiseon-screenshot.jpg)
 
