@@ -2,7 +2,7 @@
 
 ## Description
 
-For this task I was assigned the goal of making the Hori*seo*n Homepage website meet accessibility standards. I was also tasked with checking the code in both the HTML and CSS to make sure that everything was working properly and to clean up the code for any duplicate or unneccesary code. 
+For this task I was assigned the goal of making the Hori*seo*n Homepage website meet accessibility standards. I was also tasked with refactoring the legacy code base in both the HTML and CSS to make sure that everything was working properly and to clean up the code for any duplicate or unneccesary code. 
 
 I was provided the starter code from the company and noticed right away that the index.html file was structered well, but it was lacking in symentic HTML language that would help instantly to make this site more accessible. I went through the document and changed non-semantic elements such as `<div>` and `<span>` to more semeantic elements such as `<header>`, `<footer>`, and `<aside>`.
 
@@ -19,6 +19,7 @@ You can see the finished webpage deployed here: [Horiseon Homepage](https://rmar
 ![Horiseon](./Develop/assets/images/Horiseon-screenshot.jpg)
 
 ## License
+
 MIT License
 
 Copyright (c) [2021] [Richard-Martin]
